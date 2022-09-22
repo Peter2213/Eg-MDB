@@ -1,5 +1,5 @@
 # About :
-EG_MDB is site let u watch movies and making u know a brief for any movie !
+EG_MDB is site lets u watch movies , and making u know a brief for any movie !
 # Live Demo :
 (https://luxury-halva-850101.netlify.app/)
 
